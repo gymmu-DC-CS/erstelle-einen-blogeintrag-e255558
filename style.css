@@ -6,9 +6,9 @@
 
 body {
   margin: 0;
-  margin-left: 10px;
+  margin-left: 20px;
   background-color: rgb(255, 255, 255);
-  font-family: sans-serif;
+  font-family: cursive;
 }
 
 h4 {
@@ -20,8 +20,8 @@ h4 {
   float: right;
   width: 375px;
   margin-right: 160px;
-  border: 2px solid black;
-  outline: rgb(145, 38, 24) solid 10px;
+  outline:  rgba(1, 54, 107, 0.459) solid 10px;
+
 }
 
 
@@ -30,22 +30,21 @@ h4 {
   
 }
 h1 {
-  color: rgb(161, 28, 10);
+  color: rgb(1, 54, 107);
 }
 h3 {
-  color: rgb(161, 28, 10);
+  color: black;
 }
 
 h4 {
- color: rgb(145, 38, 24);
+ color: black;
 }
 #coucous {
   float: right;
   width: 320px;
   margin-right: 200px;
-  margin-top: 10px;
-  border: 2px solid black;
-  outline: rgb(145, 38, 24) solid 10px;
+  margin-bottom: 400px;
+  outline: rgba(1, 54, 107, 0.459) solid 10px;
 
 }
 
@@ -54,7 +53,11 @@ h4 {
   width: 300px;
   margin-right: 170px;
   margin-bottom: 1000px;
-  border: 2px solid black;
-  outline: rgb(145, 38, 24) solid 10px;
+  outline: rgba(1, 54, 107, 0.459) solid 10px;
 
 }
+
+.anfang {
+  color: rgb(1, 54, 107);
+}
+
