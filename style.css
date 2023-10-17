@@ -18,9 +18,12 @@ h4 {
 
 #pfannkuchen {
   float: right;
-  width: 400px;
-  margin-right: 100px;
+  width: 375px;
+  margin-right: 160px;
+  border: 2px solid black;
+  outline: rgb(145, 38, 24) solid 10px;
 }
+
 
 .hervorheben {
   font-weight: bold;
@@ -35,4 +38,23 @@ h3 {
 
 h4 {
  color: rgb(145, 38, 24);
+}
+#coucous {
+  float: right;
+  width: 320px;
+  margin-right: 200px;
+  margin-top: 10px;
+  border: 2px solid black;
+  outline: rgb(145, 38, 24) solid 10px;
+
+}
+
+#Spaghetti {
+  float: right;
+  width: 300px;
+  margin-right: 170px;
+  margin-bottom: 1000px;
+  border: 2px solid black;
+  outline: rgb(145, 38, 24) solid 10px;
+
 }
