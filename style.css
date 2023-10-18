@@ -7,7 +7,7 @@
 body {
   margin: 0;
   margin-left: 20px;
-  background-color: rgb(255, 255, 255);
+  background-color:  rgba(166, 211, 255, 0.123);
   font-family: cursive;
 }
 
@@ -60,4 +60,3 @@ h4 {
 .anfang {
   color: rgb(1, 54, 107);
 }
-
