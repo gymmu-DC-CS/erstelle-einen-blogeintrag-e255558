@@ -43,7 +43,7 @@ h4 {
   float: right;
   width: 320px;
   margin-right: 200px;
-  margin-bottom: 400px;
+  margin-bottom: 10px;
   outline: rgba(1, 54, 107, 0.459) solid 10px;
 
 }
@@ -52,7 +52,7 @@ h4 {
   float: right;
   width: 300px;
   margin-right: 170px;
-  margin-bottom: 1000px;
+  margin-bottom: 50px;
   outline: rgba(1, 54, 107, 0.459) solid 10px;
 
 }
