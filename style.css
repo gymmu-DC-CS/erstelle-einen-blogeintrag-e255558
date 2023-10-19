@@ -58,12 +58,17 @@ h4 {
 }
 
 .anfang {
-  color: rgb(1, 54, 107);
+  color: rgb(0, 0, 0);
 }
 
 h1 {
-  border: 2px solid red;
+  border: 2px solid rgba(1, 54, 107, 0.459);
   border-radius: 8px;
   padding: 5px;
   border-width: 5px;
+  width: fit-content;
+}
+
+.schluss {
+  color:  rgb(1, 54, 107);
 }
