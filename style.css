@@ -6,6 +6,79 @@
 
 body {
   margin: 0;
-  background-color: lightgray;
-  font-family: sans-serif;
+  margin-left: 20px;
+  background-color:  rgba(166, 211, 255, 0.123);
+  font-family: cursive;
+}
+
+h4 {
+  text-decoration: underline;
+  
+}
+
+#pfannkuchen {
+  float: right;
+  width: 375px;
+  margin-right: 160px;
+  outline:  rgba(1, 54, 107, 0.459) solid 10px;
+
+}
+
+
+.hervorheben {
+  font-weight: bold;
+  
+}
+h1 {
+  color: rgb(1, 54, 107);
+}
+h3 {
+  color: black;
+}
+
+h4 {
+ color: black;
+}
+#coucous {
+  float: right;
+  width: 320px;
+  margin-right: 200px;
+  margin-bottom: 10px;
+  outline: rgba(1, 54, 107, 0.459) solid 10px;
+
+}
+
+#Spaghetti {
+  float: right;
+  width: 300px;
+  margin-right: 170px;
+  margin-bottom: 50px;
+  outline: rgba(1, 54, 107, 0.459) solid 10px;
+
+}
+
+.anfang {
+  color: rgb(0, 0, 0);
+}
+
+h1 {
+  border: 2px solid rgba(1, 54, 107, 0.459);
+  border-radius: 8px;
+  padding: 5px;
+  border-width: 5px;
+  width: fit-content;
+}
+
+.schluss {
+  color:  rgb(1, 54, 107);
+}
+
+.title {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.anfang {
+  text-align: center;
 }
