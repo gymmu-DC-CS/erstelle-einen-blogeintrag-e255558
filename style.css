@@ -72,3 +72,13 @@ h1 {
 .schluss {
   color:  rgb(1, 54, 107);
 }
+
+.title {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.anfang {
+  text-align: center;
+}
